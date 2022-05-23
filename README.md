@@ -1,16 +1,36 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**damiandrake0/damiandrake0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Damiano De Vivo (@damiandrake0)
 
-Here are some ideas to get you started:
+`hippity hoppity your code is now my property lmao` [Source](https://www.youtube.com/watch?v=tdhGiWqS-y4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://img.shields.io/badge/OS-btw%20i%20use%20arch-informational?style=flat&logo=linux&logoColor=white&color=AC4142)](https://archlinux.org)
+[![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=AC4142)](https://python.org)
+[![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=AC4142)](https://code.visualstudio.com/)
+
+[![](https://img.shields.io/badge/-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=C13584)](https://www.instagram.com/damiano_devivo)
+[![](https://img.shields.io/badge/-Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc)](https://t.me/Damian_Drake)
+
+<hr>
+
+## Stats
+
+[![Drake's GitHub stats](https://github-readme-stats.vercel.app/api?username=damiandrake0)](https://github.com/anuraghazra/github-readme-stats)
+
+## Projects
+
+List of projects I made with love
+
+| Name | Category | Description | Links |
+| --- | :---: | --- | --- |
+| <a href="https://github.com/damiandrake0/Mastermind-game-Python"><b>Mastermind</b></a> | [![](https://img.shields.io/badge/💻-%20Portfolio-informational?style=flat&logoColor=white&color=3498db)]() | 🧠 Mastermind game realized with Python programming languange and Pygame library | <table><tr><td> [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://github.com/damiandrake0/Mastermind-game-Python)  </td></tr></table> |
+
+<hr>
+</div>
+
+## The end
+
+- README inspired by @ptkdev
+- GitHub README Stats by @anuraghazra
+
+Thank you both very much for the wonderful work they have done 🙏
