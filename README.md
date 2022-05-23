@@ -23,7 +23,7 @@ List of projects I made with love
 
 | Name | Category | Description | Links |
 | --- | :---: | --- | --- |
-| <a href="https://github.com/damiandrake0/Mastermind-game-Python"><b>Mastermind</b></a> | [![](https://img.shields.io/badge/💻-%20School-informational?style=flat&logoColor=white&color=3498db)]() | 🧠 Mastermind game realized with Python programming languange and Pygame library | <table><tr><td> [![](https://img.shields.io/badge/-🌎-informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/damiandrake0/Mastermind-game-Python) </td></tr></table> |
+| <a href="https://github.com/damiandrake0/Mastermind-game-Python"><b>Mastermind</b></a> | [![](https://img.shields.io/badge/💻-%20School-informational?style=flat&logoColor=white&color=yellow)]() | 🧠 Mastermind game realized with Python programming languange and Pygame library | <table><tr><td> [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/damiandrake0/Mastermind-game-Python) </td></tr></table> |
 
 <hr>
 </div>
