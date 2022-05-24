@@ -29,9 +29,9 @@ List of projects I made with love
 <hr>
 </div>
 
-## The end
+## Thanks a lot to
 
-- README inspired by @ptkdev
-- GitHub README Stats by @anuraghazra
+- @ptkdev (this README is inspired by his)
+- @anuraghazra for GitHub README Stats
 
 Thank you both very much for the wonderful work they have done 🙏
