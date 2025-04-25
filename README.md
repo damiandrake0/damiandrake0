@@ -25,7 +25,7 @@ List of projects I made with love
 | Name | Category | Description | Links |
 | --- | :---: | --- | --- |
 | <a href="https://github.com/damiandrake0/RoboClone"><b>RoboClone</b></a> | [![](https://img.shields.io/badge/💻-%20Utility-informational?style=flat&logoColor=white&color=blue)]() | 💾 A simple tool written in Python for cloning disks based on "robocopy" Windows terminal command | <table><tr><td> [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/damiandrake0/RoboClone) </td></tr></table> |
-| <a href="https://github.com/damiandrake0/iDrake-Player"><b>iDrake Player</b></a> | [![](https://img.shields.io/badge/💻-%20Utility-informational?style=flat&logoColor=white&color=blue)]() | 🎶 A lightweight MP3 player built with Python and PyGame for simple audio playback | <table><tr><td> [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/damiandrake0/iDrake-Player) </td></tr></table> |
+| <a href="https://github.com/damiandrake0/iDrake-Player"><b>iDrake Player</b></a> | [![](https://img.shields.io/badge/%F0%9F%8F%AB-%20School-informational?style=flat&logoColor=white&color=yellow)]() | 🎶 A lightweight MP3 player built with Python and PyGame for simple audio playback | <table><tr><td> [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/damiandrake0/iDrake-Player) </td></tr></table> |
 
 <hr>
 </div>
